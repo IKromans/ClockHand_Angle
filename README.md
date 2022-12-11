@@ -10,7 +10,7 @@ To run application:
 
 > clone this repository `https://github.com/IKromans/ClockHand_Angle.git`
 
-> run it from Visual Studio
+> navigate to folder where `FindAngle.cs` is located. Open terminal and run command `csc FindAngle.cs`, this will create a `FindAngle.exe` that you can simply double-click to run, or you can run it from terminal by typing `FindAngle.exe`.
 
 > The application will askt you to enter hours and minutes and after that will display the smallest angle between clock hands.
 
